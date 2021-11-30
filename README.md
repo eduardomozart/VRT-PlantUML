@@ -7,7 +7,7 @@ The sprites were exported from LibreOffice Draw in PNG format with their default
 
 ### VSF
 
-![Basic usage - VSF](http://www.plantuml.com/plantuml/proxy?idx=0&src=https%3A%2F%2Fraw.githubusercontent.com%2Feduardomozart%2FVRF-PlantUML%2Fmaster%2Fsamples%2FVSF.puml)
+![Basic usage - VSF](http://www.plantuml.com/plantuml/proxy?idx=0&src=https%3A%2F%2Fraw.githubusercontent.com%2Feduardomozart%2FVRT-PlantUML%2Fmaster%2Fsamples%2FVSF.puml)
 
 ```csharp
 @startuml
