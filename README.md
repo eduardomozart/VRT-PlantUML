@@ -34,6 +34,8 @@ SW_ACCESS_1 " 1/1/27" 0-down---0 "1/1/27 " SW_ACCESS_2
 @enduml
 ```
 
+### VLANs
+
 ![Basic usage - VLANs](http://www.plantuml.com/plantuml/proxy?idx=0&src=https%3A%2F%2Fraw.githubusercontent.com%2Feduardomozart%2FVRT-PlantUML%2Fmaster%2Fsamples%2FVLANs.puml)
 
 ```csharp
